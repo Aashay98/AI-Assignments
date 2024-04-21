@@ -2,6 +2,7 @@
 ## Assignment 1
 Implement a Depth-First Search algorithm to find the path from the start node ’S’ to the goal node
 ’G’
+
 Implement a Breath-First Search algorithm to find the path from the start node ’S’ to the goal node
 ’G’
 
