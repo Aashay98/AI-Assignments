@@ -4,6 +4,7 @@ Implement a Depth-First Search algorithm to find the path from the start node �
 ’G’
 Implement a Breath-First Search algorithm to find the path from the start node ’S’ to the goal node
 ’G’
+
 ![image](https://github.com/Aashay98/AI-Assignments/assets/45003980/60a87f83-37a1-4acf-9c4b-f6ff0a0f688c)
 
 ## Assignment 2
