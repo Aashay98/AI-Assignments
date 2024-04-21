@@ -2,11 +2,16 @@
 ## Assignment 1
 Implement a Depth-First Search algorithm to find the path from the start node ’S’ to the goal node
 ’G’
+Implement a Breath-First Search algorithm to find the path from the start node ’S’ to the goal node
+’G’
+![image](https://github.com/Aashay98/AI-Assignments/assets/45003980/60a87f83-37a1-4acf-9c4b-f6ff0a0f688c)
+
 ## Assignment 2
 You’ll exercise the map coloring problem through the Missouri County graph
 that is shared in Figure 1. You are allowed to use the colors: Red, Green, Blue,
 White, Black, Magenta, Cyan, and Orange. No adjacent states will be in the
-same color
+same color. You can start from any county that you prefer and keep going until all of the counties
+have been colored.
 
 ![image](https://github.com/Aashay98/AI-Assignments/assets/45003980/09cb2ccc-36e4-4fa7-bca9-c7aae3a2b8d5)
 
